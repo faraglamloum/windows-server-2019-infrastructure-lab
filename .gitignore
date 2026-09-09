@@ -1,1 +1,15 @@
 
+# VMware
+*.vmem
+*.vmdk
+*.nvram
+*.vmss
+*.lck
+
+# Windows temporary files
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Logs
+*.log
