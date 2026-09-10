@@ -23,7 +23,6 @@ The project includes Active Directory Domain Services, DNS, DHCP, Group Policy, 
 * Test and troubleshoot common infrastructure problems
 
 ## Lab Architecture
-![Network Diagram](documentation/network-diagram.png)
 
 | Device       | Operating System    | Role                             | IP Address          |
 | ------------ | ------------------- | -------------------------------- | ------------------- |
